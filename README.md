@@ -21,5 +21,7 @@ The Todo application is built using **Vite**. Follow the steps below to run the 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/gravity-engineering-assignment.git
+   git clone https://github.com/thisissuman/gravity-engineering-assignment.git
    cd gravity-engineering-assignment
+   npm install
+   npm run dev
