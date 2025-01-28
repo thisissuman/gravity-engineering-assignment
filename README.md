@@ -1,8 +1,25 @@
-# React + Vite
+# Gravity Engineering Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains three parts: 
 
-Currently, two official plugins are available:
+1. **Todo Application**: A React application built with Vite.
+2. **JavaScript DSA**: Contains solutions for JavaScript Data Structure and Algorithm problems in `javascript-assignment.js`.
+3. **MongoDB Queries**: Contains MongoDB query solutions in `mongodb-assignment.js`.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 1. Running the Todo Application Locally
+
+The Todo application is built using **Vite**. Follow the steps below to run the application on your local machine:
+
+### Prerequisites
+
+- Node.js (version 14 or higher)
+- npm (Node Package Manager) or yarn
+
+### Steps to Run the Application
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/gravity-engineering-assignment.git
+   cd gravity-engineering-assignment
